@@ -350,7 +350,7 @@
   /* end normalize  */
 
   body{
-    background-image: linear-gradient(to right, #cb1722, #c34f00, #af7400, #929200, #68ab00);
+    background-color: #f1f1e8;
     font-family: 'Hind', sans-serif;
   }
 
@@ -370,14 +370,14 @@
  #menuToggle a
  {
    text-decoration: none;
-   color: #232323;
+   color: black;
    
    transition: color 0.3s ease;
  }
  
  #menuToggle a:hover
  {
-   color: tomato;
+   color: #69AB00;
  }
  
  
@@ -408,7 +408,7 @@
    height: 4px;
    margin-bottom: 5px;
    position: relative;
-   background: #cdcdcd;
+   background: black;
    border-radius: 3px;
    
    z-index: 1;
@@ -438,7 +438,7 @@
  {
    opacity: 1;
    transform: rotate(45deg) translate(-2px, -1px);
-   background: white;
+   background: black;
  }
  
  /*
